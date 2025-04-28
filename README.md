@@ -36,26 +36,17 @@ Write a C program to read 3 characters one by one and print the characters in a 
 
 ## OUTPUT:
 
-Enter first character: A
+    Enter first character: A
 
-Enter second character: B
+    Enter second character: B
 
-Enter third character: C
+    Enter third character: C
 
-Characters in reverse order: C B A
+    Characters in reverse order: C B A
 
+## NAME:yashwanth asv
 
-
-
-
-
-
-
-
-
-
-
-
+## REG NO:212224230309
 
 
 
@@ -102,18 +93,14 @@ Write a C program to read A values and check whether A is positive number or not
 
 # OUTPUT:
 
-Enter a value for A: 15
+    Enter a value for A: 15
 
-A is a positive number.
-
-
+    A is a positive number.
 
 
+## NAME:yashwanth asv
 
-
-
-
-
+## REG NO:212224230309
 
 
 
@@ -162,17 +149,15 @@ Write a program to find minimum between two fraction numbers using conditional o
 
 ## OUTPUT:
 
-Enter first number: 5.2
+	Enter first number: 5.2
 
-Enter second number: 3.8
+	Enter second number: 3.8
 
-Minimum number is: 3.80
+	Minimum number is: 3.80
 
+## NAME:yashwanth asv
 
-
-
-
-
+## REG NO:212224230309
 
 
 
@@ -221,20 +206,19 @@ Write a C program to check whether the input value is equal to 1 using simple if
 
 ## OUTPUT:
 
-Enter a value: 1
+	Enter a value: 1
 
-The value is equal to 1.
-
-
+	The value is equal to 1.
 
 
+## NAME:yashwanth asv
 
-
-
+## REG NO:212224230309
 
 
 
-	
+
+
 
 ## RESULT:
 Thus the program to check whether the input value is equal to 1 using simple if statement has been executed successfully
@@ -306,17 +290,21 @@ c.	Else if percentage >= 36: Print “Division = Pass”
 
 ## OUTPUT:
 
-Enter marks of first subject: 70
+	Enter marks of first subject: 70
 
-Enter marks of second subject: 65
+	Enter marks of second subject: 65
 
-Enter marks of third subject: 80
+	Enter marks of third subject: 80
 
-Total Marks = 215
+	Total Marks = 215
 
-Percentage = 71.67%
+	Percentage = 71.67%
 
-Result: First Division
+	Result: First Division
+
+ ## NAME:yashwanth asv
+
+## REG NO:212224230309
 
 
 ## RESULT:
